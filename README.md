@@ -148,8 +148,8 @@
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
-                <p>pengalaman saya</p>
-                  <li>saya sudah mempelajari beberapa bahasa pemrograman di antaranya seperti yang sudah saya gunakan pada program ini</li>
+                
+    
             </ul>
         </div>
 
